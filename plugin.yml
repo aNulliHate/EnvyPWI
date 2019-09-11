@@ -1,0 +1,14 @@
+name: EnvyPWI
+version: 1.0.0
+api: 3.0.0
+main: anullihate\EnvyPWI\Main
+author: BlockHorizons, anullihate
+
+permissions:
+ per-world-inventory.bypass:
+  default: false
+  description: Allows bypassing the per world inventory.
+
+commands:
+ pwi:
+  default: op
