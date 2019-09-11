@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace anullihate\EnvyPWI;
 
 use anullihate\EnvyPWI\listeners\EventListener;
-use anullihate\EnvyPWI\task\LoadInventoryTask;
+use anullihate\EnvyPWI\tasks\LoadInventoryTask;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
 use pocketmine\item\Item;

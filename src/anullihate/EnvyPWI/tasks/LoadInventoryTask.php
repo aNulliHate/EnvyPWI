@@ -1,6 +1,6 @@
 <?php
 
-namespace anullihate\EnvyPWI\task;
+namespace anullihate\EnvyPWI\tasks;
 
 use pocketmine\item\Item;
 use pocketmine\nbt\BigEndianNBTStream;
